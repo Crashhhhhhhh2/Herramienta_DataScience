@@ -1,0 +1,2 @@
+:HL["/Herramienta-de-planeacion/_next/static/chunks/b096686c73032bae.css","style"]
+0:{"buildId":"dKcLPWtB0BdL3K6jmLaPO","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
